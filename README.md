@@ -1,1 +1,1 @@
-# GRBL-for-cnc
+# GRBL for cnc
